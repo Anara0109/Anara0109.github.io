@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+p{
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+.fd-c{
+    flex-direction: column;
+}
+
+.side-padding{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.ai{
+    align-items: center;
+}
+
+header{
+    border-bottom: 1px solid #E6E6E6;
+}
+
+.nav{
+    margin-right: 150px;
+}
+
+.pd{
+    padding: 0  100px;  
+}
+
+.header{
+    padding-top: 47px;
+    padding-bottom: 49px;
+}
+
+.text-prof{
+    margin: 104px 0 44px;
+}
+
+.text-17-600{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+}
+
+.text-17-500{
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #D9D9D9;
+}
+
+.c-foot{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.gr{
+    color: #979391;
+}
+
+.icon{
+    width: 52px;
+    height: 52px;
+    border: 1px solid #ECECEC;
+    position: relative;
+    cursor: pointer;
+}
+
+.cl{
+    background-color: #748E9C;
+    margin-left: 18px;
+}
+
+.jc-sb{
+    justify-content: space-between;
+}
+
+.mini-icon{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+}
+
+.mr-32{
+    margin-right: 32px;
+}
+
+.mr-50{
+    margin-right: 50px;
+}
+
+h3{
+    margin: 0;
+}
+
+.text-big{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 41px;
+}
+
+.text{
+    width: 681px;
+    height: 372px;
+    left: 208px;
+    font-family: 'Taviraj', serif;
+    font-weight: 400;
+    font-size: 91px;
+}
+
+.img-account{
+    width: 540px;
+    height: 612px;
+}
+
+
+
+
+
+
+
